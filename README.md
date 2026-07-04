@@ -41,7 +41,7 @@ bash install.sh
 ```
 
 If the following aren't installed yet, the script will print instructions and stop.
-Follow them, then run `bash install.sh` again.<img width="440" height="198" alt="demo-float" src="https://github.com/user-attachments/assets/3a2fb1d9-d589-4495-80c5-4cba6d635641" />
+Follow them, then run `bash install.sh` again.
 
 
 - **Xcode Command Line Tools** (`xcode-select --install`)
