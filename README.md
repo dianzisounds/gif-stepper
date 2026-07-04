@@ -19,7 +19,7 @@ The first build downloads and compiles the JUCE framework, so it takes a few min
 
 ```bash
 git clone https://github.com/dianzisounds/gif-stepper.git
-cd gif-stepper-vst
+cd gif-stepper
 ```
 
 **If you don't use git:**
@@ -34,12 +34,13 @@ unsigned script gets blocked by macOS.
 Open Terminal, `cd` into the folder you extracted/cloned, and run:
 
 ```bash
-cd path/to/gif-stepper-vst   # adjust to wherever you put it
+cd path/to/gif-stepper   # adjust to wherever you put it
 bash install.sh
 ```
 
 If the following aren't installed yet, the script will print instructions and stop.
-Follow them, then run `bash install.sh` again.
+Follow them, then run `bash install.sh` again.<img width="440" height="198" alt="demo-float" src="https://github.com/user-attachments/assets/3a2fb1d9-d589-4495-80c5-4cba6d635641" />
+
 
 - **Xcode Command Line Tools** (`xcode-select --install`)
 - **cmake** (`brew install cmake`; if you don't have Homebrew, see https://brew.sh)
