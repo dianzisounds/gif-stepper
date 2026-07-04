@@ -3,6 +3,8 @@
 A VST3 / AU plugin that steps through the frames of a GIF in sync with your DAW's BPM.
 Useful for adding an animated visual element to screen captures of your production process (WIP) for social media.
 
+![GIF Stepper Float window demo](assets/demo-float.gif)
+
 ## Supported environments
 
 - macOS (Apple Silicon or Intel — either works, since you build it on your own Mac)
