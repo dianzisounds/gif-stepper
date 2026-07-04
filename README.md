@@ -18,7 +18,7 @@ The first build downloads and compiles the JUCE framework, so it takes a few min
 **If you have git:**
 
 ```bash
-git clone https://github.com/fanfan336/gif-stepper-vst.git
+git clone https://github.com/dianzisounds/gif-stepper.git
 cd gif-stepper-vst
 ```
 
